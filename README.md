@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kagitmiadam
+- 👀 I’m interested in HTML/CSS/JS
+- 🌱 I’m currently learning Vue.js
